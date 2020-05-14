@@ -7,7 +7,7 @@
 3. ES6 Class Types: The Basics
 4. ES6 Class Types: Inheritance
 
-#Project 3 Repo
+# Project 3 Repo
 
 ## 281 Project 3 Learning Outcomes
 - A web API or Application Programming Interface is an API accessed using the HTTP protocol. Web APIs often deliver data formatted as JSON.
@@ -27,7 +27,7 @@
 - Using flickr public APIs
 - gallery.html, gallery.css, gallery.js
 
-#Project 1 Repo 
+# Project 1 Repo 
 
 ## 281 Project 1 Learning Objectives
 - Basic Unix Shell commands
