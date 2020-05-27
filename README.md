@@ -27,7 +27,7 @@
 - Using flickr public APIs
 - gallery.html, gallery.css, gallery.js
 
-# Project 1 Repo 
+# Project 1 Repo
 
 ## 281 Project 1 Learning Objectives
 - Basic Unix Shell commands

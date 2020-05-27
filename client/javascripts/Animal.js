@@ -47,7 +47,9 @@ class Rabbit extends Animal {
 
 // Inherit from Animal
 class Dog extends Animal {
-  //your code goes here..
+  constructor(name, breed, weight,speed){
+    
+  }
 
 }
 
